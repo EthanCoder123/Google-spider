@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_body","order":5,"path":"objects/obj_body/obj_body.yy",},
+    {"name":"obj_food","order":7,"path":"objects/obj_food/obj_food.yy",},
+    {"name":"Object1","order":4,"path":"objects/Object1/Object1.yy",},
+    {"name":"Object3","order":6,"path":"objects/Object3/Object3.yy",},
+    {"name":"object","order":3,"path":"sprites/object/object.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite4","order":8,"path":"sprites/Sprite4/Sprite4.yy",},
+  ],
+}
